@@ -2,7 +2,7 @@
 - 👀 I’m interested in games, music, gym
 - 🌱 I’m currently learning javacript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me s3p1isbest@gmail.com
+- 📫 How to reach me ejuui001@edu.xamk.fi
 
 <!---
 pietsukka/pietsukka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
