@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning javacript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ejuui001@edu.xamk.fi
+- Juho-Ville Uitto
 
 <!---
 pietsukka/pietsukka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
